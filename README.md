@@ -76,14 +76,11 @@ Priority: Workspace > Local > Bundled
 ## Web & Frontend Development
 
 - [discord](https://github.com/clawdbot/skills/tree/main/skills/steipete/discord/SKILL.md) - Use when you need to control Discord from Clawdbot via the discord tool: send messages, react.
-- [frontend-design](https://github.com/clawdbot/skills/tree/main/skills/dc-acronym/frontend-design-1-0-0/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
-- [frontend-design](https://github.com/clawdbot/skills/tree/main/skills/mpociot/superdesign/SKILL.md) - Expert frontend design guidelines for creating beautiful, modern UIs.
 - [frontend-design](https://github.com/clawdbot/skills/tree/main/skills/steipete/frontend-design/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
 - [linux-service-triage](https://github.com/clawdbot/skills/tree/main/skills/kowl64/linux-service-triage/SKILL.md) - Diagnoses common Linux service issues using logs, systemd/PM2, file permissions.
 - [miniflux-news](https://github.com/clawdbot/skills/tree/main/skills/hartlco/miniflux-news/SKILL.md) - Fetch and triage the latest unread RSS/news entries from a Miniflux instance.
 - [pinak-frontend-guru](https://github.com/clawdbot/skills/tree/main/skills/sharanga10/pinak-frontend-guru/SKILL.md) - Expert UI/UX and React performance auditor (PinakBot persona).
 - [remotion-best-practices](https://github.com/clawdbot/skills/tree/main/skills/am-will/remotion-best-practices/SKILL.md) - Best practices for Remotion - Video creation in React.
-- [remotion-best-practices](https://github.com/clawdbot/skills/tree/main/skills/am-will/remotion/SKILL.md) - Best practices for Remotion - Video creation in React.
 - [remotion-server](https://github.com/clawdbot/skills/tree/main/skills/mvanhorn/remotion-server/SKILL.md) - Headless video rendering with Remotion. Works on any Linux server - no Mac or GUI needed.
 - [slack](https://github.com/clawdbot/skills/tree/main/skills/steipete/slack/SKILL.md) - Use when you need to control Slack from Clawdbot via the slack tool.
 - [ui-audit](https://github.com/clawdbot/skills/tree/main/skills/tommygeoco/ui-audit/SKILL.md) - AI skill for automated UI audits. Evaluate interfaces against proven UX principles.
@@ -127,8 +124,6 @@ Priority: Workspace > Local > Bundled
 
 - [Azure CLI](https://github.com/clawdbot/skills/tree/main/skills/ddevaal/azure-cli/SKILL.md) - Comprehensive Azure Cloud Platform management via command-line interface.
 - [cloudflare](https://github.com/clawdbot/skills/tree/main/skills/asleep123/wrangler/SKILL.md) - Manage Cloudflare Workers, KV, D1, R2, and secrets using the Wrangler CLI.
-- [cloudflare](https://github.com/clawdbot/skills/tree/main/skills/dbhurley/cloudflare/SKILL.md) - Cloudflare CLI - manage DNS records, purge cache, and control Workers routes.
-- [cloudflare](https://github.com/clawdbot/skills/tree/main/skills/stopmoclay/cloudflare-api/SKILL.md) - Connect to Cloudflare API for DNS management, tunnels, and zone administration.
 - [coolify](https://github.com/clawdbot/skills/tree/main/skills/visiongeist/coolify/SKILL.md) - Manage Coolify deployments, applications, databases, and services via the Coolify API.
 - [digital-ocean](https://github.com/clawdbot/skills/tree/main/skills/dbhurley/digital-ocean/SKILL.md) - Manage Digital Ocean droplets, domains, and infrastructure via DO API.
 - [dokploy](https://github.com/clawdbot/skills/tree/main/skills/joshuarileydev/dokploy/SKILL.md) - Manage Dokploy deployments, projects, applications, and domains via the Dokploy API.
@@ -163,7 +158,6 @@ Priority: Workspace > Local > Bundled
 
 ## Browser & Automation
 
-- [Agent Browser](https://github.com/clawdbot/skills/tree/main/skills/gwqwghksvq-sketch/tekin/SKILL.md) - A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to.
 - [Agent Browser](https://github.com/clawdbot/skills/tree/main/skills/thesethrose/agent-browser/SKILL.md) - A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to.
 - [browsh](https://github.com/clawdbot/skills/tree/main/skills/gumadeiras/browsh/SKILL.md) - A modern text-based browser. Renders web pages in the terminal using headless Firefox.
 - [context7](https://github.com/clawdbot/skills/tree/main/skills/am-will/context7-api/SKILL.md) - |.
@@ -186,7 +180,6 @@ Priority: Workspace > Local > Bundled
 ## Apple Apps & Services
 
 - [apple-contacts](https://github.com/clawdbot/skills/tree/main/skills/tyler6204/apple-contacts/SKILL.md) - Look up contacts from macOS Contacts.app.
-- [apple-music](https://github.com/clawdbot/skills/tree/main/skills/epheterson/mcp-applemusic/SKILL.md) - Apple Music integration via AppleScript (macOS) or MusicKit API.
 - [apple-music](https://github.com/clawdbot/skills/tree/main/skills/tyler6204/apple-music/SKILL.md) - Search Apple Music, add songs to library, manage playlists, control playback and AirPlay.
 - [apple-photos](https://github.com/clawdbot/skills/tree/main/skills/tyler6204/apple-photos/SKILL.md) - Apple Photos.app integration for macOS. List albums, browse photos, search by date/person/content.
 - [get-focus-mode](https://github.com/clawdbot/skills/tree/main/skills/nickchristensen/get-focus-mode/SKILL.md) - Get the current macOS Focus mode.
@@ -336,9 +329,7 @@ Priority: Workspace > Local > Bundled
 - [dvsa-tc-audit-readiness-operator-licence-uk](https://github.com/clawdbot/skills/tree/main/skills/kowl64/dvsa-tc-audit-readiness-operator-licence-uk/SKILL.md) - Builds DVSA/Traffic Commissioner “show me” audit readiness checklists and evidence indexes.
 - [gno](https://github.com/clawdbot/skills/tree/main/skills/gmickel/gno/SKILL.md) - Search local documents, files, notes, and knowledge bases.
 - [jira](https://github.com/clawdbot/skills/tree/main/skills/jdrhyne/jira/SKILL.md) - Manage Jira issues, boards, sprints, and projects via the jira-cli.
-- [jira](https://github.com/clawdbot/skills/tree/main/skills/kyjus25/clawdbot-jira-skill/SKILL.md) - Manage Jira issues, transitions, and worklogs via the Jira Cloud REST API.
 - [linear](https://github.com/clawdbot/skills/tree/main/skills/manuelhettich/linear/SKILL.md) - Query and manage Linear issues, projects, and team workflows.
-- [linear](https://github.com/clawdbot/skills/tree/main/skills/matrixy/linear-skill/SKILL.md) - Manage Linear projects, issues, and tasks via the Linear API.
 - [morning-manifesto](https://github.com/clawdbot/skills/tree/main/skills/marcbickel/morning-manifesto/SKILL.md) - Daily morning reflection workflow with task sync to Obsidian, Apple Reminders, and Linear.
 - [plan-my-day](https://github.com/clawdbot/skills/tree/main/skills/itsflow/plan-my-day/SKILL.md) - Generate an energy-optimized, time-blocked daily plan.
 - [prd](https://github.com/clawdbot/skills/tree/main/skills/bjesuiter/prd/SKILL.md) - Create and manage Product Requirements Documents (PRDs).
@@ -351,9 +342,6 @@ Priority: Workspace > Local > Bundled
 - [ticktick](https://github.com/clawdbot/skills/tree/main/skills/manuelhettich/ticktick/SKILL.md) - Manage TickTick tasks and projects from the command line with OAuth2 auth, batch operations.
 - [timesheet](https://github.com/clawdbot/skills/tree/main/skills/florianrauscha/timesheet/SKILL.md) - Track time, manage projects and tasks using timesheet.io CLI.
 - [todo-tracker](https://github.com/clawdbot/skills/tree/main/skills/jdrhyne/todo-tracker/SKILL.md) - Persistent TODO scratch pad for tracking tasks across sessions.
-- [todoist](https://github.com/clawdbot/skills/tree/main/skills/2mawi2/todoist-task-manager/SKILL.md) - Manage Todoist tasks via the `todoist` CLI (list, add, modify, complete, delete).
-- [todoist](https://github.com/clawdbot/skills/tree/main/skills/andreisuslov/todoist-manager/SKILL.md) - Manage Todoist tasks, projects, labels, and comments via the todoist CLI wrapper.
-- [todoist](https://github.com/clawdbot/skills/tree/main/skills/mattjefferson/todoist-td/SKILL.md) - Use the td (Todoist CLI) to read and manage Todoist todos/to-dos/tasks from the terminal.
 - [todoist](https://github.com/clawdbot/skills/tree/main/skills/mjrussell/todoist/SKILL.md) - Manage tasks and projects in Todoist. Use when user asks about tasks, to-dos, reminders.
 - [topydo](https://github.com/clawdbot/skills/tree/main/skills/bastos/topydo/SKILL.md) - Manage todo.txt tasks using topydo CLI. Add, list, complete, prioritize, tag.
 - [trello](https://github.com/clawdbot/skills/tree/main/skills/steipete/trello/SKILL.md) - Manage Trello boards, lists, and cards via the Trello REST API.
@@ -383,7 +371,6 @@ Priority: Workspace > Local > Bundled
 - [openai-tts](https://github.com/clawdbot/skills/tree/main/skills/pors/openai-tts/SKILL.md) - Text-to-speech via OpenAI Audio Speech API.
 - [openrouter-transcribe](https://github.com/clawdbot/skills/tree/main/skills/obviyus/openrouter-transcribe/SKILL.md) - Transcribe audio files via OpenRouter using audio-capable models (Gemini, GPT-4o-audio, etc).
 - [oracle](https://github.com/clawdbot/skills/tree/main/skills/steipete/oracle/SKILL.md) - Use the @steipete/oracle CLI to bundle a prompt plus the right files.
-- [perplexity](https://github.com/clawdbot/skills/tree/main/skills/dronnick/perplexity-sonar/SKILL.md) - Use Perplexity API for web-grounded AI search and research.
 - [perplexity](https://github.com/clawdbot/skills/tree/main/skills/zats/perplexity/SKILL.md) - Search the web with AI-powered answers via Perplexity API.
 - [personas](https://github.com/clawdbot/skills/tree/main/skills/robbyczgw-cla/personas/SKILL.md) - Transform into 31 specialized AI personalities on demand.
 - [pi-orchestration](https://github.com/clawdbot/skills/tree/main/skills/dbhurley/pi-orchestration/SKILL.md) - Orchestrate multiple AI models (GLM, MiniMax, etc.) as workers using Pi Coding Agent.
@@ -391,7 +378,6 @@ Priority: Workspace > Local > Bundled
 - [research](https://github.com/clawdbot/skills/tree/main/skills/pors/research/SKILL.md) - Deep research via Gemini CLI — runs in background sub-agent so you don't burn your Claude tokens.
 - [screen-monitor](https://github.com/clawdbot/skills/tree/main/skills/emasoudy/screen-monitor/SKILL.md) - Dual-mode screen sharing and analysis. Model-agnostic (Gemini/Claude/Qwen3-VL).
 - [search-x](https://github.com/clawdbot/skills/tree/main/skills/mvanhorn/search-x/SKILL.md) - Search X/Twitter in real-time using Grok. Find tweets, trends, and discussions with citations.
-- [self-improvement](https://github.com/clawdbot/skills/tree/main/skills/dc-acronym/self-improving-agent-1-0-0/SKILL.md) - Captures learnings, errors, and corrections to enable continuous improvement.
 - [self-improvement](https://github.com/clawdbot/skills/tree/main/skills/pskoett/self-improving-agent/SKILL.md) - Captures learnings, errors, and corrections to enable continuous improvement.
 - [smart-followups](https://github.com/clawdbot/skills/tree/main/skills/robbyczgw-cla/smart-followups/SKILL.md) - Generate contextual follow-up suggestions after AI responses.
 - [xai](https://github.com/clawdbot/skills/tree/main/skills/mvanhorn/xai/SKILL.md) - Chat with Grok models via xAI API. Supports Grok-3, Grok-3-mini, vision, and more.
@@ -468,11 +454,9 @@ Priority: Workspace > Local > Bundled
 - [bookstack](https://github.com/clawdbot/skills/tree/main/skills/xenofex7/bookstack/SKILL.md) - BookStack Wiki & Documentation API integration.
 - [calctl](https://github.com/clawdbot/skills/tree/main/skills/rainbat/calctl/SKILL.md) - Manage Apple Calendar events via icalBuddy + AppleScript CLI.
 - [craft](https://github.com/clawdbot/skills/tree/main/skills/noah-ribaudo/craft/SKILL.md) - Manage Craft notes, documents, and tasks via CLI.
-- [fizzy-cli](https://github.com/clawdbot/skills/tree/main/skills/emredoganer/emredoganer-fizzy-cli/SKILL.md) - Manage Fizzy Kanban boards, cards, comments, tags, and steps.
 - [fizzy-cli](https://github.com/clawdbot/skills/tree/main/skills/tobiasbischoff/fizzy-cli/SKILL.md) - Use the fizzy-cli tool to authenticate and manage Fizzy kanban boards, cards, comments, tags.
 - [gkeep](https://github.com/clawdbot/skills/tree/main/skills/vacinc/gkeep/SKILL.md) - Google Keep notes via gkeepapi. List, search, create, and manage notes.
 - [granola](https://github.com/clawdbot/skills/tree/main/skills/mvanhorn/granola-notes/SKILL.md) - Access Granola AI meeting notes - CSV import, shared note fetching.
-- [granola](https://github.com/clawdbot/skills/tree/main/skills/scald/granola/SKILL.md) - Access Granola meeting transcripts and notes.
 - [nb](https://github.com/clawdbot/skills/tree/main/skills/bjesuiter/nb/SKILL.md) - Manage notes, bookmarks, and notebooks using the nb CLI.
 - [Notebook](https://github.com/clawdbot/skills/tree/main/skills/thesethrose/notebook/SKILL.md) - Local-first personal knowledge base for tracking ideas, projects, tasks, habits.
 - [notectl](https://github.com/clawdbot/skills/tree/main/skills/rainbat/notectl/SKILL.md) - Manage Apple Notes via AppleScript CLI.
@@ -500,7 +484,6 @@ Priority: Workspace > Local > Bundled
 - [oebb-scotty](https://github.com/clawdbot/skills/tree/main/skills/manmal/oebb-scotty/SKILL.md) - Austrian rail travel planner (ÖBB Scotty).
 - [openerz](https://github.com/clawdbot/skills/tree/main/skills/mbjoern/erz-entsorgung-recycling-zurich/SKILL.md) - Abfuhrkalender für Zürich via OpenERZ API.
 - [railil](https://github.com/clawdbot/skills/tree/main/skills/lirantal/railil/SKILL.md) - Search for Israel Rail train schedules using the railil CLI.
-- [railil](https://github.com/clawdbot/skills/tree/main/skills/lirantal/skill-railil/SKILL.md) - Search for Israel Rail train schedules using the railil CLI.
 - [rejseplanen](https://github.com/clawdbot/skills/tree/main/skills/bjarkehs/rejseplanen/SKILL.md) - Query Danish public transport departures, arrivals, and journey planning via Rejseplanen API.
 - [skanetrafiken](https://github.com/clawdbot/skills/tree/main/skills/rezkam/skanetrafiken/SKILL.md) - Skåne public transport trip planner (Skånetrafiken). Plans bus/train journeys with real-time delays.
 - [swiss-geo](https://github.com/clawdbot/skills/tree/main/skills/mbjoern/swiss-geo-and-tourism-assistant/SKILL.md) - Schweizer Geodaten, POIs und Tourismus. Orte/Adressen suchen, Höhen abfragen.
@@ -519,7 +502,6 @@ Priority: Workspace > Local > Bundled
 ## Personal Development
 
 - [daily-review](https://github.com/clawdbot/skills/tree/main/skills/henrino3/daily-review/SKILL.md) - Comprehensive daily performance review with communication tracking, meeting analysis.
-- [daily-review](https://github.com/clawdbot/skills/tree/main/skills/itsflow/daily-review-ritual/SKILL.md) - End-of-day review to capture progress, insights, and plan tomorrow.
 - [drivers-hours-wtd-infringement-coach-uk](https://github.com/clawdbot/skills/tree/main/skills/kowl64/drivers-hours-wtd-infringement-coach-uk/SKILL.md) - Creates a 1-page driver-facing tacho/WTD infringement note plus corrective actions and review date.
 - [graphiti](https://github.com/clawdbot/skills/tree/main/skills/emasoudy/graphiti/SKILL.md) - Knowledge graph operations via Graphiti API.
 - [morning-routine](https://github.com/clawdbot/skills/tree/main/skills/jhillin8/morning-routine/SKILL.md) - Build a powerful morning routine with habit checklists, timing, and streak tracking.
@@ -559,7 +541,6 @@ Priority: Workspace > Local > Bundled
 - [the-sports-db](https://github.com/clawdbot/skills/tree/main/skills/gumadeiras/the-sports-db/SKILL.md) - Access sports data via TheSportsDB (teams, events, scores).
 - [weight-loss](https://github.com/clawdbot/skills/tree/main/skills/jhillin8/weight-loss/SKILL.md) - Track weight loss journey with weigh-ins, trend analysis, and goal milestones.
 - [whoop](https://github.com/clawdbot/skills/tree/main/skills/borahm/whoop/SKILL.md) - WHOOP morning check-in (recovery/sleep/strain) with suggestions.
-- [whoop](https://github.com/clawdbot/skills/tree/main/skills/rodrigouroz/whoop-health-analysis/SKILL.md) - Access Whoop wearable health data (sleep, recovery, strain, HRV, workouts)
 - [whoop-morning](https://github.com/clawdbot/skills/tree/main/skills/borahm/whoop-morning/SKILL.md) - Check WHOOP recovery/sleep/strain each morning and send suggestions.
 - [whoopskill](https://github.com/clawdbot/skills/tree/main/skills/koala73/whoopskill/SKILL.md) - WHOOP CLI with health insights, trends analysis, and data fetching (sleep, recovery, HRV, strain).
 - [workout](https://github.com/clawdbot/skills/tree/main/skills/gricha/workout/SKILL.md) - Track workouts, log sets, manage exercises and templates with workout-cli.
@@ -568,11 +549,9 @@ Priority: Workspace > Local > Bundled
 ## Communication
 
 - [apple-mail-search](https://github.com/clawdbot/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) - Fast & safe Apple Mail search with body content support.
-- [apple-mail-search](https://github.com/clawdbot/skills/tree/main/skills/mneves75/apple-mail-search/SKILL.md) - Fast Apple Mail search via SQLite on macOS.
 - [beeper](https://github.com/clawdbot/skills/tree/main/skills/krausefx/beeper/SKILL.md) - Search and browse local Beeper chat history (threads, messages, full-text search).
 - [camelcamelcamel-alerts](https://github.com/clawdbot/skills/tree/main/skills/jgramajo4/camelcamelcamel-alerts/SKILL.md) - Monitor CamelCamelCamel price drop alerts via RSS and send Telegram notifications when items go on.
 - [discord-doctor](https://github.com/clawdbot/skills/tree/main/skills/jhillock/discord-doctor/SKILL.md) - Quick diagnosis and repair for Discord bot, Gateway, OAuth token, and legacy config issues.
-- [discord-doctor](https://github.com/clawdbot/skills/tree/main/skills/kn71gxkg16twyqz5wzkvt61sh17yjnpd/discord-doctor/SKILL.md) - Quick diagnosis and repair for Discord bot, Gateway, OAuth token, and legacy config issues.
 - [google-chat](https://github.com/clawdbot/skills/tree/main/skills/darconada/google-chat/SKILL.md) - Send messages to Google Chat spaces and users via webhooks or OAuth.
 - [himalaya](https://github.com/clawdbot/skills/tree/main/skills/lamelas/himalaya/SKILL.md) - CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search.
 - [imsg](https://github.com/clawdbot/skills/tree/main/skills/steipete/imsg/SKILL.md) - iMessage/SMS CLI for listing chats, history, watch, and sending.
