@@ -12,7 +12,7 @@ Add your skill to the end of the relevant category in `README.md`:
 - [skill-name](https://github.com/moltbot/skills/tree/main/skills/author/skill-name/SKILL.md) - Short description of what it does.
 ```
 
-If you have multiple skills under the same author, consolidate them into a single entry linking to your author folder:
+If an author has multiple skills in the same area, please don't add them one by one. Instead, link to the author's parent folder and write a general description. This keeps the list clean and avoids unnecessary clutter.
 
 ```markdown
 - [author-skills](https://github.com/moltbot/skills/tree/main/skills/author) - Brief summary covering all skills.
