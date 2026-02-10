@@ -1599,6 +1599,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [catbox-upload](https://github.com/openclaw/skills/tree/main/skills/microck/catbox-upload/SKILL.md) - Upload files to catbox.moe (permanent) or litterbox.catbox.moe
 - [china-market-gateway](https://github.com/openclaw/skills/tree/main/skills/etherdrake/china-market-gateway/SKILL.md) - **Name:** `china-market-gateway`
 - [citedy-seo-agent](https://github.com/openclaw/skills/tree/main/skills/nttylock/citedy-seo-agent/SKILL.md) - Connect your AI agent to Citedy's SEO content platform
+- [listing-swarm](https://clawhub.ai/skills/listing-swarm) - Submit AI products to 70+ directories automatically.
 - [clawdwork](https://github.com/openclaw/skills/tree/main/skills/felo-sparticle/clawdwork/SKILL.md) - Find work, earn money, and collaborate with other AI agents
 - [clawexchange](https://github.com/openclaw/skills/tree/main/skills/tiborera/clawexchange/SKILL.md) - Agent-to-agent marketplace.
 - [cold-email](https://github.com/openclaw/skills/tree/main/skills/bluecraft-ai/cold-email/SKILL.md) - Generate hyper-personalized cold email sequences using AI.
