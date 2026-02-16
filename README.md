@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 3002 community-built OpenClaw skills, organized by category.
+    <strong>发现3002个社区构建的OpenClaw技能，按类别组织。
     </strong>
     <br />
     <br />
@@ -26,58 +26,58 @@
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
 </div>
 
-# Awesome OpenClaw Skills
+# Awesome OpenClaw 技能合集
 
-OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
+OpenClaw（之前称为Moltbot，最初是Clawdbot...包含身份危机，不额外收费）是一个本地运行的AI助手，直接在您的机器上运行。技能扩展了其功能，使其能够与外部服务交互、自动化工作流程并执行专门任务。此合集帮助您发现和安装适合您需求的技能。
 
-Skills in this list are sourced from [ClawHub](https://www.clawhub.ai/) (OpenClaw's public skills registry) and categorized for easier discovery.
+此列表中的技能来源于[ClawHub](https://www.clawhub.ai/)（OpenClaw的公共技能注册表）并按类别分类以便于发现。
 
-These skills follow the Agent Skill convention develop by Anthropic, an open standard for AI coding assistants.
+这些技能遵循Anthropic开发的Agent Skill约定，这是一个AI编码助手的开放标准。
 
-> **Want to add a skill?** This list only includes skills that are **already published** in the "github.com/openclaw/skills". We do not accept links to personal repos, gists, or any other external source. If your skill isn't in the OpenClaw skills repo yet, publish it there first. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+> **想要添加技能？** 此列表仅包含**已发布**在"github.com/openclaw/skills"中的技能。我们不接受指向个人仓库、gist或任何其他外部源的链接。如果您的技能尚未在OpenClaw技能仓库中，请先在那里发布。有关详细信息，请参阅[CONTRIBUTING.md](CONTRIBUTING.md)。
 
-## Installation
+## 安装
 
 ### ClawHub CLI
 
-> **Note:** As you probably know, they keep renaming things. This reflects the current official docs. We'll update this when they rename it again.
+> **注意：** 如您所知，他们一直在重命名事物。这反映了当前的官方文档。当他们再次重命名时，我们将更新此内容。
 
 ```bash
 npx clawhub@latest install <skill-slug>
 ```
 
-### Manual Installation
+### 手动安装
 
 Copy the skill folder to one of these locations:
 
-| Location | Path |
+| 位置 | 路径 |
 |----------|------|
-| Global | `~/.openclaw/skills/` |
-| Workspace | `<project>/skills/` |
+| 全局 | `~/.openclaw/skills/` |
+| 工作空间 | `<project>/skills/` |
 
-Priority: Workspace > Local > Bundled
+优先级：工作空间 > 本地 > 捆绑
 
-### Alternative
+### 替代方法
 
-You can also paste the skill's GitHub repository link directly into your assistant's chat and ask it to use it. The assistant will handle the setup automatically in the background.
+您还可以将技能的GitHub仓库链接直接粘贴到助手的聊天中，并要求其使用它。助手将在后台自动处理设置。
 
 
-## Why This List Exists?
+## 为什么存在此列表？
 
-OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as of February 7, 2026. This awesome list has **3,002 skills**. Here's what we filtered out:
+截至2026年2月7日，OpenClaw的公共注册表（ClawHub）托管着**5,705个社区构建的技能**。此Awesome列表包含**3,002个技能**。以下是我们过滤掉的内容：
 
-| Filter | Excluded |
+| 过滤器 | 排除数量 |
 |--------|----------|
-| Possibly spam — bulk accounts, bot accounts, test/junk | 1,180 |
+| 可能是垃圾 - 批量账户、机器人账户、测试/垃圾 | 1,180 |
 | Crypto / Blockchain / 金融 / Trade | 672 |
-| Duplicate / Similar name | 492 |
-| Malicious — identified by security audits published by researchers (excluding VirusTotal) | 396 |
-| Non-English — descriptions not in English | 8 |
-| **Total not taken from OpenClaw's official skill registry** | **2,748** |
+| 重复/相似名称 | 492 |
+| 恶意 - 由研究人员发布的安全审计识别（不包括VirusTotal） | 396 |
+| 非英语 - 描述不是英文 | 8 |
+| **未从OpenClaw官方技能注册表中获取的总数** | **2,748** |
 
-> **Disclaimer:** Inclusion in this list does **not** guarantee a skill is safe or trustworthy. OpenClaw now has a VirusTotal partnership that provides security scanning for skills. Before installing a skill, visit its page on ClawHub and check the VirusTotal report to see if it's flagged as risky. We also recommend reviewing a skill's source code before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
+> **免责声明：** 包含在此列表中**不**保证技能安全或可信。OpenClaw现在与VirusTotal合作，为技能提供安全扫描。在安装技能之前，请访问其在ClawHub上的页面，并检查VirusTotal报告以查看是否被标记为有风险。我们还建议在安装前查看技能的源代码，并使用Claude Code或Codex等工具检查是否存在潜在有害行为。
 
-If you think a skill was incorrectly excluded or miscategorized, feel free to open an issue or PR. We may have made mistakes.
+如果您认为某个技能被错误地排除或分类错误，请随时提出问题或PR。我们可能犯了错误。
 
 <br/>
 
@@ -87,7 +87,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 <br/>
 
-## Table of Contents
+## 目录
 
 | | | |
 |---|---|---|
