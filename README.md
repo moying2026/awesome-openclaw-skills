@@ -69,7 +69,7 @@ OpenClaw's public registry (ClawHub) hosts **5,705 community-built skills** as o
 | Filter | Excluded |
 |--------|----------|
 | Possibly spam — bulk accounts, bot accounts, test/junk | 1,180 |
-| Crypto / Blockchain / Finance / Trade | 672 |
+| Crypto / Blockchain / 金融 / Trade | 672 |
 | Duplicate / Similar name | 492 |
 | Malicious — identified by security audits published by researchers (excluding VirusTotal) | 396 |
 | Non-English — descriptions not in English | 8 |
@@ -91,22 +91,22 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 | | | |
 |---|---|---|
-| [Coding Agents & IDEs](#coding-agents--ides) (133) | [Marketing & Sales](#marketing--sales) (143) | [Communication](#communication) (132) |
-| [Git & GitHub](#git--github) (66) | [Productivity & Tasks](#productivity--tasks) (135) | [Speech & Transcription](#speech--transcription) (65) |
-| [Moltbook](#moltbook) (51) | [AI & LLMs](#ai--llms) (287) | [Smart Home & IoT](#smart-home--iot) (56) |
-| [Web & Frontend Development](#web--frontend-development) (202) | [Data & Analytics](#data--analytics) (46) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
-| [DevOps & Cloud](#devops--cloud) (212) | [Finance](#finance) (22) | [Calendar & Scheduling](#calendar--scheduling) (50) |
-| [Browser & Automation](#browser--automation) (139) | [Media & Streaming](#media--streaming) (80) | [PDF & Documents](#pdf--documents) (67) |
-| [Image & Video Generation](#image--video-generation) (60) | [Notes & PKM](#notes--pkm) (100) | [Self-Hosted & Automation](#self-hosted--automation) (25) |
-| [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (63) |
-| [Search & Research](#search--research) (253) | [Transportation](#transportation) (73) | [Gaming](#gaming) (61) |
-| [Clawdbot Tools](#clawdbot-tools) (120) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18) |
-| [CLI Utilities](#cli-utilities) (129) | [Health & Fitness](#health--fitness) (55) | |
+| [编程代理 & IDE](#coding-agents--ides) (133) | [营销 & 销售](#marketing--sales) (143) | [通信](#communication) (132) |
+| [Git & GitHub](#git--github) (66) | [生产力 & 任务](#productivity--tasks) (135) | [语音 & 转录](#speech--transcription) (65) |
+| [Moltbook](#moltbook) (51) | [AI & LLM](#ai--llms) (287) | [智能家居 & IoT](#smart-home--iot) (56) |
+| [Web & 前端开发](#web--frontend-development) (202) | [数据 & 分析](#data--analytics) (46) | [购物 & 电子商务](#shopping--e-commerce) (51) |
+| [DevOps & 云](#devops--cloud) (212) | [金融](#finance) (22) | [日历 & 日程安排](#calendar--scheduling) (50) |
+| [浏览器 & 自动化](#browser--automation) (139) | [媒体 & 流媒体](#media--streaming) (80) | [PDF & 文档](#pdf--documents) (67) |
+| [图像 & 视频生成](#image--video-generation) (60) | [笔记 & PKM](#notes--pkm) (100) | [自托管 & 自动化](#self-hosted--automation) (25) |
+| [Apple应用 & 服务](#apple-apps--services) (35) | [iOS & macOS开发](#ios--macos-development) (17) | [安全 & 密码](#security--passwords) (63) |
+| [搜索 & 研究](#search--research) (253) | [交通](#transportation) (73) | [游戏](#gaming) (61) |
+| [Clawdbot工具](#clawdbot-tools) (120) | [个人发展](#personal-development) (56) | [代理到代理协议](#agent-to-agent-protocols) (18) |
+| [CLI工具](#cli-utilities) (129) | [健康 & 健身](#health--fitness) (55) | |
 
 
 
 <details open>
-<summary><h3 style="display:inline">Coding Agents & IDEs</h3></summary>
+<summary><h3 style="display:inline">编程代理 & IDE</h3></summary>
 
 - [achurch](https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/achurch/SKILL.md) - A 24/7 digital sanctuary for AI agents and humans — attend
 - [agent-config](https://github.com/openclaw/skills/tree/main/skills/thatguysizemore/agent-config/SKILL.md) - Intelligently modify agent core context files
@@ -360,7 +360,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [moltoverflow](https://github.com/openclaw/skills/tree/main/skills/grenghis-khan/moltoverflow/SKILL.md) - Stack Overflow for Moltbots - ask coding questions, share
 - [moltpet](https://github.com/openclaw/skills/tree/main/skills/jcheese1/moltpet/SKILL.md) - AI agent pet care system.
 - [moltresearch](https://github.com/openclaw/skills/tree/main/skills/laurentenhoor/moltresearch/SKILL.md) - Molt Research 🦞 - AI research collaboration platform.
-- [moltspeak](https://github.com/openclaw/skills/tree/main/skills/swahilipapi/moltspeak/SKILL.md) - Communication protocol for agent internet with token reduction
+- [moltspeak](https://github.com/openclaw/skills/tree/main/skills/swahilipapi/moltspeak/SKILL.md) - 通信 protocol for agent internet with token reduction
 - [moltysmind](https://github.com/openclaw/skills/tree/main/skills/ahmedthegeek/moltysmind/SKILL.md) - Collective AI knowledge layer with blockchain-verified voting.
 - [nobot](https://github.com/openclaw/skills/tree/main/skills/swordfish444/nobot/SKILL.md) - Human says "No bot!".
 - [nonopost](https://github.com/openclaw/skills/tree/main/skills/ferreirapablo/nonopost/SKILL.md) - A skill to interact with the Anonymous Posting API, allowing agents
@@ -374,7 +374,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Web & Frontend Development</h3></summary>
+<summary><h3 style="display:inline">Web & 前端开发</h3></summary>
 
 - [37soul-skill](https://github.com/openclaw/skills/tree/main/skills/xnjiang/37soul-skill/SKILL.md) - Connect your AI agent to 37Soul virtual Host characters and enable
 - [aimlapi-media-gen](https://github.com/openclaw/skills/tree/main/skills/d1m7asis/aimlapi-media-gen/SKILL.md) - Generate images or videos via AIMLAPI
@@ -583,7 +583,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">DevOps & Cloud</h3></summary>
+<summary><h3 style="display:inline">DevOps & 云</h3></summary>
 
 - [adguard](https://github.com/openclaw/skills/tree/main/skills/rowbotik/adguard/SKILL.md) - Control AdGuard Home DNS filtering via HTTP API.
 - [agent-directory](https://github.com/openclaw/skills/tree/main/skills/aerialcombat/agent-directory/SKILL.md) - The directory for AI agent services.
@@ -802,7 +802,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Browser & Automation</h3></summary>
+<summary><h3 style="display:inline">浏览器 & 自动化</h3></summary>
 
 - [2captcha](https://github.com/openclaw/skills/tree/main/skills/adinvadim/2captcha/SKILL.md) - Solve CAPTCHAs using 2Captcha service.
 - [abm-outbound](https://github.com/openclaw/skills/tree/main/skills/dru-ca/abm-outbound/SKILL.md) - Multi-channel ABM automation that turns LinkedIn URLs
@@ -947,7 +947,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Image & Video Generation</h3></summary>
+<summary><h3 style="display:inline">图像 & 视频生成</h3></summary>
 
 - [afame](https://github.com/openclaw/skills/tree/main/skills/adebayoabdushaheed-a11y/afame/SKILL.md) - Generate diverse creative illustrations via OpenAI Images API.
 - [agentos-mesh](https://github.com/openclaw/skills/tree/main/skills/agentossoftware/agentos-mesh/SKILL.md) - Enables real-time communication between AI agents
@@ -1013,7 +1013,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Apple Apps & Services</h3></summary>
+<summary><h3 style="display:inline">Apple应用 & 服务</h3></summary>
 
 - [alter-actions](https://github.com/openclaw/skills/tree/main/skills/olivieralter/alter-actions/SKILL.md) - Trigger Alter macOS app actions via x-callback-urls.
 - [apple-contacts](https://github.com/openclaw/skills/tree/main/skills/tyler6204/apple-contacts/SKILL.md) - Look up contacts from macOS Contacts.app.
@@ -1054,7 +1054,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Search & Research</h3></summary>
+<summary><h3 style="display:inline">搜索 & 研究</h3></summary>
 
 - [1](https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md) - Personal knowledge base powered by Ensue for capturing and retrieving.
 - [2233researchskill](https://github.com/openclaw/skills/tree/main/skills/cyberengage/2233researchskill/SKILL.md) - Magic 8-Ball fortune teller: selects and returns one
@@ -1313,7 +1313,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Clawdbot Tools</h3></summary>
+<summary><h3 style="display:inline">Clawdbot工具</h3></summary>
 
 - [adhd-assistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-assistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
 - [adhd-ssistant](https://github.com/openclaw/skills/tree/main/skills/thinktankmachine/adhd-ssistant/SKILL.md) - ADHD-friendly life management assistant for OpenClaw.
@@ -1439,7 +1439,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">CLI Utilities</h3></summary>
+<summary><h3 style="display:inline">CLI工具</h3></summary>
 
 - [agent-commerce-engine](https://github.com/openclaw/skills/tree/main/skills/nowloady/agent-commerce-engine/SKILL.md) - A production-ready universal engine for Agentic
 - [airfoil](https://github.com/openclaw/skills/tree/main/skills/asteinberger/airfoil/SKILL.md) - Control AirPlay speakers via Airfoil from the command line.
@@ -1574,7 +1574,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Marketing & Sales</h3></summary>
+<summary><h3 style="display:inline">营销 & 销售</h3></summary>
 
 - [4chan-reader](https://github.com/openclaw/skills/tree/main/skills/aiasisbot61/4chan-reader/SKILL.md) - Browse 4chan boards and extract thread discussions
 - [a2a-market](https://github.com/openclaw/skills/tree/main/skills/jamjamzxhy/a2a-market/SKILL.md) - AI Agent skill marketplace integration for A2A Market.
@@ -1723,7 +1723,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Productivity & Tasks</h3></summary>
+<summary><h3 style="display:inline">生产力 & 任务</h3></summary>
 
 - [4todo](https://github.com/openclaw/skills/tree/main/skills/blackstorm/4todo/SKILL.md) - Manage 4todo (4to.do) from chat.
 - [actual-budget](https://github.com/openclaw/skills/tree/main/skills/thisisjeron/actual-budget/SKILL.md) - Query and manage personal finances via the official Actual
@@ -1864,7 +1864,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">AI & LLMs</h3></summary>
+<summary><h3 style="display:inline">AI & LLM</h3></summary>
 
 - [4claw](https://github.com/openclaw/skills/tree/main/skills/mfergpt/4claw/SKILL.md) - 4claw — a moderated imageboard for AI agents.
 - [a2a](https://github.com/openclaw/skills/tree/main/skills/gstdcoin/a2a/SKILL.md) - Decentralized Agent-to-Agent Autonomous Economy.
@@ -2039,7 +2039,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [meta-video-ad-analyzer](https://github.com/openclaw/skills/tree/main/skills/fortytwode/meta-video-ad-analyzer/SKILL.md) - Extract and analyze content from video ads
 - [mind-blow](https://github.com/openclaw/skills/tree/main/skills/autogame-17/mind-blow/SKILL.md) - Deliver "mind-blowing" insights, paradoxes.
 - [minimax-usage](https://github.com/openclaw/skills/tree/main/skills/thesethrose/minimax-usage/SKILL.md) - Monitor Minimax Coding Plan usage to stay within API limits.
-- [mlscp](https://github.com/openclaw/skills/tree/main/skills/sirkrouph-dev/mlscp/SKILL.md) - Parse and generate MLSCP (Micro LLM Swarm Communication Protocol) commands.
+- [mlscp](https://github.com/openclaw/skills/tree/main/skills/sirkrouph-dev/mlscp/SKILL.md) - Parse and generate MLSCP (Micro LLM Swarm 通信 Protocol) commands.
 - [model-alias-append](https://github.com/openclaw/skills/tree/main/skills/ccapton/model-alias-append/SKILL.md) - Automatically appends the model alias to the end
 - [model-router](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/model-router/SKILL.md) - A comprehensive AI model routing system that automatically
 - [molt-bar](https://github.com/openclaw/skills/tree/main/skills/alonw0/molt-bar/SKILL.md) - Virtual Pub for AI Agents
@@ -2157,7 +2157,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Data & Analytics</h3></summary>
+<summary><h3 style="display:inline">数据 & 分析</h3></summary>
 
 - [add-analytics](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/add-analytics/SKILL.md) - Add Google Analytics 4 tracking to any project.
 - [agent-content-pipeline](https://github.com/openclaw/skills/tree/main/skills/larsderidder/agent-content-pipeline/SKILL.md) - Safe content workflow
@@ -2204,13 +2204,13 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [tabstack-extractor](https://github.com/openclaw/skills/tree/main/skills/noblepayne/tabstack-extractor/SKILL.md) - Extract structured data from websites using Tabstack
 - [thingsboard-skill](https://github.com/openclaw/skills/tree/main/skills/hoangnv170752/thingsboard-skill/SKILL.md) - Manage ThingsBoard devices, dashboards, telemetry
 - [umea-data](https://github.com/openclaw/skills/tree/main/skills/simskii/umea-data/SKILL.md) - Query open data from Umeå kommun about locations, facilities
-- [yahoo-data-fetcher](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md) - Fetch real-time stock quotes from Yahoo Finance.
+- [yahoo-data-fetcher](https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md) - Fetch real-time stock quotes from Yahoo 金融.
 - [douban-sync-skill](https://github.com/openclaw/skills/tree/main/skills/cosformula/douban-sync-skill/SKILL.md) - Export and sync Douban (豆瓣) book/movie/music/game collections.
 
 </details>
 
 <details>
-<summary><h3 style="display:inline">Finance</h3></summary>
+<summary><h3 style="display:inline">金融</h3></summary>
 
 - [analytics-tracking](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/analytics-tracking/SKILL.md) - When the user wants
 - [api-credentials-hygiene](https://github.com/openclaw/skills/tree/main/skills/kowl64/api-credentials-hygiene/SKILL.md) - Audits and hardens API credential handling
@@ -2238,7 +2238,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Media & Streaming</h3></summary>
+<summary><h3 style="display:inline">媒体 & 流媒体</h3></summary>
 
 - [anime](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime/SKILL.md) - CLI for AI agents to search and lookup anime info for their humans.
 - [anime-lookup](https://github.com/openclaw/skills/tree/main/skills/jeffaf/anime-lookup/SKILL.md) - CLI for AI agents to search and lookup anime info for their humans.
@@ -2324,7 +2324,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Notes & PKM</h3></summary>
+<summary><h3 style="display:inline">笔记 & PKM</h3></summary>
 
 - [agents-structured-memory](https://github.com/openclaw/skills/tree/main/skills/singhcoder/agents-structured-memory/SKILL.md) - Chat-native structured memory for agents
 - [alexandrie](https://github.com/openclaw/skills/tree/main/skills/eth3rnit3/alexandrie/SKILL.md) - Interact with Alexandrie note-taking app
@@ -2430,7 +2430,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">iOS & macOS Development</h3></summary>
+<summary><h3 style="display:inline">iOS & macOS开发</h3></summary>
 
 - [app-store-optimization](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/app-store-optimization/SKILL.md) - App Store Optimization toolkit
 - [apple-docs](https://github.com/openclaw/skills/tree/main/skills/thesethrose/apple-docs/SKILL.md) - Query Apple Developer Documentation, APIs, and WWDC videos
@@ -2453,7 +2453,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Transportation</h3></summary>
+<summary><h3 style="display:inline">交通</h3></summary>
 
 - [airfrance-afkl](https://github.com/openclaw/skills/tree/main/skills/iclems/airfrance-afkl/SKILL.md) - Track Air France flights using the Air France–KLM Open Data APIs
 - [anachb](https://github.com/openclaw/skills/tree/main/skills/manmal/a-nach-b/SKILL.md) - Austrian public transport (VOR AnachB) for all of Austria.
@@ -2532,7 +2532,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Personal Development</h3></summary>
+<summary><h3 style="display:inline">个人发展</h3></summary>
 
 - [adhd-body-doubling](https://github.com/openclaw/skills/tree/main/skills/jankutschera/adhd-body-doubling/SKILL.md) - Punk-style ADHD body doubling for founders.
 - [adversarial-coach](https://github.com/openclaw/skills/tree/main/skills/killerapp/adversarial-coach/SKILL.md) - Adversarial implementation review based on Block's g3
@@ -2594,7 +2594,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Health & Fitness</h3></summary>
+<summary><h3 style="display:inline">健康 & 健身</h3></summary>
 
 - [agent-credit](https://github.com/openclaw/skills/tree/main/skills/aaronjmars/agent-credit/SKILL.md) - Borrow from Aave via credit delegation.
 - [bring-recipes](https://github.com/openclaw/skills/tree/main/skills/darkdevelopers/bring-recipes/SKILL.md) - Use when user wants to browse recipe inspirations
@@ -2655,7 +2655,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Communication</h3></summary>
+<summary><h3 style="display:inline">通信</h3></summary>
 
 - [agent-doppelganger](https://github.com/openclaw/skills/tree/main/skills/sieershafilone/agent-doppelganger/SKILL.md) - Constrained autonomous delegate
 - [agent-mail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) - Email inbox for AI agents.
@@ -2793,7 +2793,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Speech & Transcription</h3></summary>
+<summary><h3 style="display:inline">语音 & 转录</h3></summary>
 
 - [addis-assistant-stt](https://github.com/openclaw/skills/tree/main/skills/dagmawibabi/addis-assistant-stt/SKILL.md) - Provides Speech-to-Text (STT) and text
 - [agent-voice](https://github.com/openclaw/skills/tree/main/skills/nerdsnipe/agent-voice/SKILL.md) - Command-line blogging platform for AI agents.
@@ -2864,7 +2864,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Smart Home & IoT</h3></summary>
+<summary><h3 style="display:inline">智能家居 & IoT</h3></summary>
 
 - [aida](https://github.com/openclaw/skills/tree/main/skills/ak-khalis/aida/SKILL.md) - aida
 - [anova-oven](https://github.com/openclaw/skills/tree/main/skills/dodeja/anova-skill/SKILL.md) - Control Anova Precision Ovens and Precision Cookers (sous vide)
@@ -2926,7 +2926,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Shopping & E-commerce</h3></summary>
+<summary><h3 style="display:inline">购物 & 电子商务</h3></summary>
 
 - [agent-commerce](https://github.com/openclaw/skills/tree/main/skills/nowloady) - Agentic e-commerce engine and Sichuan food deli...
 - [agentic-commerce](https://github.com/openclaw/skills/tree/main/skills/purch-agent/agentic-commerce/SKILL.md) - AI-powered shopping API for product search and crypto
@@ -2983,7 +2983,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Calendar & Scheduling</h3></summary>
+<summary><h3 style="display:inline">日历 & 日程安排</h3></summary>
 
 - [accli](https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md) - This skill should be used when interacting with Apple Calendar on macOS.
 - [advanced-calendar](https://github.com/openclaw/skills/tree/main/skills/toughworm/advanced-calendar/SKILL.md) - Advanced calendar skill with natural language
@@ -3039,7 +3039,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">PDF & Documents</h3></summary>
+<summary><h3 style="display:inline">PDF & 文档</h3></summary>
 
 - [agent-constitution](https://github.com/openclaw/skills/tree/main/skills/ztsalexey/agent-constitution/SKILL.md) - Interact with AgentConstitution governance contracts
 - [agent-intelligence-network-scan](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/agent-intelligence-network-scan/SKILL.md) - Query agent reputation
@@ -3112,7 +3112,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Self-Hosted & Automation</h3></summary>
+<summary><h3 style="display:inline">自托管 & 自动化</h3></summary>
 
 - [bridle](https://github.com/openclaw/skills/tree/main/skills/bjesuiter/bridle/SKILL.md) - Unified configuration manager for AI coding assistants.
 - [casual-cron](https://github.com/openclaw/skills/tree/main/skills/gostlightai/casual-cron/SKILL.md) - Create Clawdbot cron jobs from natural language with strict
@@ -3143,7 +3143,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Security & Passwords</h3></summary>
+<summary><h3 style="display:inline">安全 & 密码</h3></summary>
 
 - [1password](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op).
 - [amai-id](https://www.clawhub.ai/Gonzih/amai-id) - Soul-Bound Keys and Soulchain for persistent ag...
@@ -3212,7 +3212,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Gaming</h3></summary>
+<summary><h3 style="display:inline">游戏</h3></summary>
 
 - [agent-confessions](https://github.com/openclaw/skills/tree/main/skills/ultimatebos/agent-confessions/SKILL.md) - Anonymous confessions from AI siblings
 - [agent-overflow](https://github.com/openclaw/skills/tree/main/skills/stencodes/agent-overflow/SKILL.md) - AgentOverflow is a collective memory system for AI agents.
@@ -3279,7 +3279,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 </details>
 
 <details>
-<summary><h3 style="display:inline">Agent-to-Agent Protocols</h3></summary>
+<summary><h3 style="display:inline">代理到代理协议</h3></summary>
 
 - [a0x-agents](https://github.com/openclaw/skills/tree/main/skills/claucondor/a0x-agents/SKILL.md) - Two superpowers for AI agents: a collective brain and a Base
 - [agent-shield](https://github.com/openclaw/skills/tree/main/skills/ultimatebos/agent-shield/SKILL.md) - The Chitin Protocol.
@@ -3302,21 +3302,23 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 
 </details>
 
+</details>
+
 <br/>
 
-## 🤝 Contributing
+## 🤝 贡献
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+我们欢迎贡献！请查看[CONTRIBUTING.md](CONTRIBUTING.md)了解详细指南。
 
-- Submit new skills via PR
-- Improve existing definitions
+- 通过PR提交新技能
+- 改进现有定义
 
-> **Note:** Please don't submit skills you created 3 hours ago. We're now focusing on community-adopted skills, especially those published by development teams and proven in real-world usage. Quality over quantity.
+> **注意：** 请不要提交您3小时前创建的技能。我们现在专注于社区采用的技能，特别是由开发团队发布并在实际使用中得到验证的技能。质量重于数量。
 
-## License
+## 许可证
 
-MIT License - see [LICENSE](LICENSE)
+MIT 许可证 - 请参阅[LICENSE](LICENSE)文件
 
-Skills in this list are sourced from the OpenClaw official skills repo and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
+此列表中的技能来源于OpenClaw官方技能仓库，并按类别分类以便于发现。此处列出的技能由其各自的作者创建和维护，而不是由我们创建和维护。我们不审计、认可或保证所列项目的安全性或正确性。它们未经安全审计，应在生产使用前进行审查。
 
-If you find an issue with a listed skill or want your skill removed, please open an issue and we'll take care of it promptly.
+如果您发现列出的技能有问题或希望删除您的技能，请提出问题，我们将及时处理。
